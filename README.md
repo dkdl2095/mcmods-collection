@@ -7,7 +7,6 @@
 ##### · [sodium](https://modrinth.com/mod/sodium/version/mc1.19.2-0.4.4)
 ##### · [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/3827354)
 ##### · [Notes](https://www.curseforge.com/minecraft/mc-mods/notes/files/3937913)
-#
 #### 1.18.2
 ##### · [fabric-api](https://modrinth.com/mod/fabric-api/version/0.59.0%2B1.18.2)
 ##### · [BetterF3](https://modrinth.com/mod/betterf3/version/1.2.5.1)
