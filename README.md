@@ -1,1 +1,1 @@
-# [Download Fabric Server](https://fabricmc.net/use/server/)
+##### [Download Fabric Server](https://fabricmc.net/use/server/)
