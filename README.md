@@ -1,4 +1,4 @@
-### Mods List
+### Mod List
 #### 1.19.2
 ##### · [fabric-api](https://modrinth.com/mod/fabric-api/version/0.62.0%2B1.19.2)
 ##### · [BetterF3](https://modrinth.com/mod/betterf3/version/1.3.2)
