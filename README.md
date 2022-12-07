@@ -13,5 +13,5 @@
 ##### [modrinth](https://modrinth.com/mods)
 ##### [curseforge-minecraft-mods](https://www.curseforge.com/minecraft/mc-mods)
 
-#Cocoainput mode does not have 1.18 version, so please refer to the link below
+#Cocoainput mode does not have 1.18 version, so please refer to the link
 https://www.curseforge.com/minecraft/mc-mods/cocoainput
