@@ -1,6 +1,6 @@
 ### Mod List
 #### 1.19.2
-##### · [fabric-api](https://modrinth.com/mod/fabric-api/version/0.62.0%2B1.19.2)
+##### · [fabric-api](https://modrinth.com/mod/fabric-api/version/0.68.0+1.19.2)
 ##### · [BetterF3](https://modrinth.com/mod/betterf3/version/1.3.2)
 ##### · [temporary build CocoaInput](https://github.com/Korea-Minecraft-Forum/CocoaInput/releases/tag/4.1.0-0)
 ##### · [indium](https://modrinth.com/mod/indium/version/1.0.9%2Bmc1.19.2)
