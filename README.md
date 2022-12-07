@@ -8,6 +8,7 @@
 ##### · [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/3827354)
 ##### · [Notes](https://www.curseforge.com/minecraft/mc-mods/notes/files/3937913)
 ##### · [Mod Menu](https://modrinth.com/mod/modmenu/version/4.1.1)
+##### · [Create](https://modrinth.com/mod/create-fabric/version/0.5.0g-796+1.19.2)
 #
 ##### [Fabric](https://fabricmc.net/)
 ##### [modrinth](https://modrinth.com/mods)
